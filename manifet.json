@@ -7,7 +7,7 @@
   "css": "style.css",
   "author": "MilkyMilkLover (Ported to ST)",
   "version": "1.0.0",
-  "homePage": "https://github.com/yourusername/ST-DynamicLorebook",
+  "homePage": "https://github.com/vikisbusiness99-design/SillyTavern---Advanced-Lorebook.git",
   "auto_update": false,
   "generate_interceptor": "dynamicLoreInterceptor",
   "description": "Advanced lorebook system with cascading triggers, priority-based selection, shifts, and conditional logic"
