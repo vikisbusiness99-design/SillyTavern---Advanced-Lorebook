@@ -1,0 +1,14 @@
+{
+  "display_name": "Dynamic Lorebook System",
+  "loading_order": 10,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "MilkyMilkLover (Ported to ST)",
+  "version": "1.0.0",
+  "homePage": "https://github.com/yourusername/ST-DynamicLorebook",
+  "auto_update": false,
+  "generate_interceptor": "dynamicLoreInterceptor",
+  "description": "Advanced lorebook system with cascading triggers, priority-based selection, shifts, and conditional logic"
+}
