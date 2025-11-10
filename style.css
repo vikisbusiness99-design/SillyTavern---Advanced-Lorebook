@@ -1,0 +1,46 @@
+/* Dynamic Lorebook Extension Styles */
+
+#dynamic-lorebook-toggle {
+    transition: color 0.3s ease, transform 0.2s ease;
+}
+
+#dynamic-lorebook-toggle:hover {
+    transform: scale(1.1);
+}
+
+#dynamic-lorebook-settings {
+    margin-bottom: 10px;
+}
+
+#dynamic-lorebook-settings .inline-drawer-content {
+    padding: 10px;
+}
+
+#dynamic-lorebook-settings small {
+    color: #bbb;
+    line-height: 1.4;
+}
+
+#dynamic-lorebook-settings hr {
+    margin: 15px 0;
+    border: none;
+    border-top: 1px solid #444;
+}
+
+#dynamic-lorebook-settings .text_pole {
+    width: 100%;
+    padding: 5px;
+    margin-top: 5px;
+}
+
+#dynamic-lorebook-settings .margin-bot-10px {
+    margin-bottom: 10px;
+}
+
+#dynamic-lorebook-settings .checkbox_label {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
